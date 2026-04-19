@@ -151,8 +151,8 @@ genetic-algorithm-optimization/
 │
 └── requirements.txt              # Зависимости (numpy, matplotlib)
 🔧 Технологии
-Технология	Назначение
-Python 3.x	Язык программирования
+
+Python 3.x	
 Tkinter	Графический интерфейс
 Matplotlib	Визуализация графиков
 NumPy	Математические вычисления
